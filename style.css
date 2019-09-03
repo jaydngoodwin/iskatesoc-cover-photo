@@ -12,17 +12,6 @@ size: 148mm 210mm portrait;
 margin: 0
 }
 
-hr {
-clear:both;
-display: block;
-height: 0.05mm;
-margin:3mm 0;
-border: 0;
-border-top: 0.2mm solid;
-border-color:#367588;
-background-color:#367588;
-}
-
 #wrapper {
 width:185.16mm;
 height:73.34mm;
